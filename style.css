@@ -247,7 +247,7 @@ nav a.active::after {
     position: relative;
 
     background-image:
-        url("images/hero.jpg");
+        url("hero.jpg");
 
     background-size: cover;
 
